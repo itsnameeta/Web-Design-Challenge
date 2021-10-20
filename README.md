@@ -4,7 +4,7 @@
 
 Data is more powerful when we share it with others! Let's take what we've learned about HTML and CSS to create a dashboard showing off the analysis we've done.
 
-![Images/landingResize.png](Images/landingResize.png)
+![landingResize](https://user-images.githubusercontent.com/79797256/138171592-4253581e-3199-460d-b2dd-9db88e42cb87.png)
 
 ### Before You Begin
 
